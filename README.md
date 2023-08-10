@@ -7,6 +7,13 @@
    <a href="https://www.linkedin.com/in/mathfdev/" target="_blank" class="ext" rel="noreferrer"><img src="https://img.shields.io/badge/-PORTFOLIO-%353b3Ac?style=for-the-badge&logo=react&logoColor=white" target="_blank" class="ext" rel="noreferrer"></a>
 </div>
 
+<h3  align="center"> 👨🏻‍💻 &nbsp;About me </h3>
+
+- 🇧🇷 &nbsp; Born and living in Brazil.
+- 🍰 &nbsp; I'm 24 years old.
+- 💻 &nbsp; Studying Systems Analysis and Development.
+- 💪 &nbsp; I love lifting weights.
+
 ## Technologies
 
 ### Languages:
@@ -39,4 +46,3 @@
 ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-
