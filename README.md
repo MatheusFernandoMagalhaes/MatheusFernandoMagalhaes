@@ -13,7 +13,7 @@
 <h3  align="center"> 👨🏻‍💻 &nbsp;About me </h3>
 
 - 🇧🇷 &nbsp; Born and living in Brazil.
-- 🍰 &nbsp; I'm 24 years old.
+- 🍰 &nbsp; I'm 25 years old.
 - 💻 &nbsp; Studying Systems Analysis and Development.
 - 💪 &nbsp; I love lifting weights.
 
